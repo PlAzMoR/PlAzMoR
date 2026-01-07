@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PlAzMoR
-- 👀 I’m interested in writing code, creating embedded systems and aerospice engineering 'YIKES'
-- 🌱 I’m currently learning embedded, guys
-- 💞️ I’m looking to collaborate on Elon Musk
-- 📫 How to reach me [NO-WAY]
+- 👀 I’m interested in code, creating embedded systems and aerospice engineering
+- 🌱 I’m currently learning, well, embedded
+- 💞️ I’m looking to collaborate on [???]
+- - 📫 How to reach me [NO-WAY]
 
 <!---
 PlAzMoR/PlAzMoR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
